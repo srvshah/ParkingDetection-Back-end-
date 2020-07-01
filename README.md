@@ -2,11 +2,20 @@
 
 Instructions:
 ---
+- open command prompt on the project folder
 ```cmd
 pip install -r requirements.txt
 ```
-run ParkingDetection.exe
+- Incase of error Install the Latest Python version (currently 3.8)
 
-Mark the parking spots with mouse with clicking and making a rectangle 
+- run ParkingDetection.exe
 
-hit q when done
+- login to system
+
+- go to selection tab
+
+- select image and video. Then, click run.
+
+- Mark the parking spots with mouse with clicking and making a rectangle 
+
+- hit q when done marking.
