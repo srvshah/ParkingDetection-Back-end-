@@ -2,7 +2,7 @@
 
 Instructions:
 ---
-- open command prompt on the project folder
+- open command prompt on the project folder and type the following command
 ```cmd
 pip install -r requirements.txt
 ```
